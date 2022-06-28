@@ -5,6 +5,7 @@
 	"bin": "dist/cli.js",
 	"module": "./dist/index.js",
 	"main": "./dist.index.cjs",
+	"repository": "git://github.com/Npfries/ecs",
 	"scripts": {
 		"build": "rm -rf dist && npx tsup",
 		"test": "export TS_JEST_LOG=ts-jest.log && npx jest",
