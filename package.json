@@ -1,6 +1,6 @@
 {
-	"name": "@dispiro/ecs",
-	"version": "1.0.3",
+	"name": "dispiro-ecs",
+	"version": "0.0.1",
 	"description": "A lightweight entity component system",
 	"bin": "dist/cli.js",
 	"module": "./dist/index.js",
